@@ -1,0 +1,7 @@
+
+1-Extract Data from json file to 4 table using SSIS and SQL query
+2-transormation the data type  and lod it  from 4 tables to flat table
+
+3- creat  DWH 
+4- ETL data from flate table to DWH using SSIS And SQL  query
+
